@@ -2,11 +2,11 @@
 
 
 ## Overview
-This project is a fullstack web application inspired by Meesho, built with React.js, and node.js to provide a seamless and visually appealing shopping experience. The app allows users to browse products, manage their cart, and handle user authentication efficiently. The project integrates modern design principles and robust state management to ensure a smooth and responsive user interface
+This project is a full-stack web application inspired by Meesho, built with React.js, and node.js to provide a seamless and visually appealing shopping experience. The app allows users to browse products, manage their cart, and handle user authentication efficiently. The project integrates modern design principles and robust state management to ensure a smooth and responsive user interface
 
 ## Link
-- **The frontend of the application**: [https://meesho-web-app.vercel.app]
-- **The backend of the application**: [https://messho-backend.onrender.com/]
+- **The Frontend of the application**: [https://meesho-web-app.vercel.app]
+- **The Backend of the application**: [https://messho-backend.onrender.com/]
 - **API Documentation** : - [https://documenter.getpostman.com/view/30567986/2sA3XQgMK6]
   
 ## Screenshots
@@ -15,7 +15,8 @@ This project is a fullstack web application inspired by Meesho, built with React
 ![image](https://github.com/priya1599/Meesho-WebApp/assets/128911820/328f3603-c00d-4da6-8dbb-c0debc00d23d)
 
 ### 2] All Product Details
-![image](https://github.com/priya1599/Meesho-WebApp/assets/128911820/4408de32-3685-4775-9e26-fa979bfcacae)
+![image](https://github.com/priya1599/Messho-webapp-Backend/assets/128911820/ccf9a1f5-e1bb-4967-9c8f-9c6e787fef21)
+
 
 ### 3] Login Page
 ![image](https://github.com/priya1599/Meesho-WebApp/assets/128911820/edf4e3c5-99b5-48b2-a430-af4935196bb7)
