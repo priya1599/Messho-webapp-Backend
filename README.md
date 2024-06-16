@@ -5,9 +5,10 @@
 This project is a fullstack web application inspired by Meesho, built with React.js, and node.js to provide a seamless and visually appealing shopping experience. The app allows users to browse products, manage their cart, and handle user authentication efficiently. The project integrates modern design principles and robust state management to ensure a smooth and responsive user interface
 
 ## Link
-- The frontend of the application is deployed on vercel and can be accessed at: [https://meesho-web-app.vercel.app]
-- The backend of the application is deployed on Render and can be accessed at: [https://messho-backend.onrender.com/]
-- API Documentation : - [https://documenter.getpostman.com/view/30567986/2sA3XQgMK6]
+- **The frontend of the application is deployed on vercel and can be accessed at**: [https://meesho-web-app.vercel.app]
+- **The backend of the application is deployed on Render and can be accessed at**: [https://messho-backend.onrender.com/]
+- **API Documentation** : - [https://documenter.getpostman.com/view/30567986/2sA3XQgMK6]
+  
 ## Screenshots
 ### 1]Home Page
 
@@ -31,14 +32,16 @@ This project is a fullstack web application inspired by Meesho, built with React
 - **Node.js:** A runtime environment that executes JavaScript code on the server-side.
 - **Express.js:** A node.js framework for building web applications and RESTful API.
 - **MongoDB:** Is a NoSQL Database system that stores and manages data in JSON-like format.
-
+- **Vercel:** For Frontend Deployment
+- **Render:** For Backend Deployment
+-  
 ## Prerequisites
 
 To run this project locally, make sure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
-- 
+
 ## Features:
 
 1] **Frontend Interface Development**: A visually appealing frontend interface inspired by Meesho, incorporating modern design principles and elements.\
@@ -92,5 +95,6 @@ Meesho WebApp was developed to provide users with a seamless shopping experience
 
 6. **Documentation:** Comprehensive documentation was created to guide developers and users through the application's setup, usage, and deployment. This documentation provides clear instructions and explanations for each step, making it easy for developers and users to understand and utilize the app effectively.
 
+**API Documentation** : - [https://documenter.getpostman.com/view/30567986/2sA3XQgMK6]
 
 
