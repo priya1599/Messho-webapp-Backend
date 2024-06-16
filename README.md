@@ -5,8 +5,8 @@
 This project is a fullstack web application inspired by Meesho, built with React.js, and node.js to provide a seamless and visually appealing shopping experience. The app allows users to browse products, manage their cart, and handle user authentication efficiently. The project integrates modern design principles and robust state management to ensure a smooth and responsive user interface
 
 ## Link
-- **The frontend of the application is deployed on vercel and can be accessed at**: [https://meesho-web-app.vercel.app]
-- **The backend of the application is deployed on Render and can be accessed at**: [https://messho-backend.onrender.com/]
+- **The frontend of the application**: [https://meesho-web-app.vercel.app]
+- **The backend of the application**: [https://messho-backend.onrender.com/]
 - **API Documentation** : - [https://documenter.getpostman.com/view/30567986/2sA3XQgMK6]
   
 ## Screenshots
