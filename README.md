@@ -34,7 +34,7 @@ This project is a fullstack web application inspired by Meesho, built with React
 - **MongoDB:** Is a NoSQL Database system that stores and manages data in JSON-like format.
 - **Vercel:** For Frontend Deployment
 - **Render:** For Backend Deployment
--  
+  
 ## Prerequisites
 
 To run this project locally, make sure you have the following installed:
